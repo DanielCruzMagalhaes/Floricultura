@@ -17,10 +17,13 @@
 </ul>
 
 <div    >
-    <img style="width: 40px; height: 40px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
-    <img style="width: 40px; height: 40px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
-    <img style="width: 40px; height: 40px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
-    <img  style="width: 40px; height: 40px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
+    <img style="width: 200px; height: 200px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
+    <img style="width: 200px; height: 200px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
+    <img style="width: 200px; height: 200px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
+    <img style="width: 200px; height: 200px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
+    
 </div>
 
+<br>
+<br>
 <img src="https://as2.ftcdn.net/v2/jpg/03/05/54/03/1000_F_305540391_rBjfN78tUPClgDCfqT3YN8UfNg5CDJav.jpg" alt="">
