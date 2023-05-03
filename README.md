@@ -7,7 +7,7 @@
 <p>Além da venda de plantas, também realizamos entrega de substratos, vasos e suportes para todo o Brasil </p>
 <strong>Flores da estação</strong>
  
-<ul>
+<ul style="text-align: center>
                 <li>Verão</li>
                 <li>Inverno</li>
                 <li>Outono</li>
@@ -16,11 +16,11 @@
 
 </ul>
 
-<div style="width: 40px; height: 40px;"   >
-    <img src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
-    <img src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
-    <img src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
-    <img src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
+<div    >
+    <img style="width: 40px; height: 40px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
+    <img style="width: 40px; height: 40px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
+    <img style="width: 40px; height: 40px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
+    <img  style="width: 40px; height: 40px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
 </div>
 
 <img src="https://as2.ftcdn.net/v2/jpg/03/05/54/03/1000_F_305540391_rBjfN78tUPClgDCfqT3YN8UfNg5CDJav.jpg" alt="">
