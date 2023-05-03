@@ -9,7 +9,7 @@
 <br>
 <br>
 <br>
-<ul style="text-align: center>
+<ul align="center">
                 <li>Verão</li>
                 <li>Inverno</li>
                 <li>Outono</li>
