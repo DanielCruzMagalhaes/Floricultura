@@ -16,7 +16,7 @@
 
 </ul>
 
-<div>
+<div style="width: 40px; height: 40px;"   >
     <img src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
     <img src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
     <img src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
