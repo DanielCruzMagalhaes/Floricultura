@@ -22,7 +22,7 @@
 <div  align="center"  >
     <img style="width: 200px; height: 200px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
     <img style="width: 200px; height: 200px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
-    <img style="width: 200px; height: 200px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
+    <img style="width: 200px; height: 200px;" src="https://img.freepik.com/fotos-gratis/close-up-flor-rosa-em-amarelo_23-2147759159.jpg?w=826&t=st=1683157573~exp=1683158173~hmac=e28319a748aa72b636295a901badce888e5bf25f30c0aaa4290e03e463135c9b" alt="">
     <img style="width: 200px; height: 200px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
     
 </div>
