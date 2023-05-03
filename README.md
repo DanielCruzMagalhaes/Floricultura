@@ -19,7 +19,7 @@
 </ul>
 <br>
 <br>
-<div    >
+<div  align="center"  >
     <img style="width: 200px; height: 200px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
     <img style="width: 200px; height: 200px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
     <img style="width: 200px; height: 200px;" src="https://static.significados.com.br/foto/flor-de-lotus_dt.jpg" alt="">
@@ -31,7 +31,7 @@
 <br>
 <br>
 <br>
-<img"src="https://as2.ftcdn.net/v2/jpg/03/05/54/03/1000_F_305540391_rBjfN78tUPClgDCfqT3YN8UfNg5CDJav.jpg" alt="">
+
 
 <h5 align="center">Todos os direitor Reservados SESI SENAI </h5>
 
