@@ -28,4 +28,10 @@
 
 <br>
 <br>
-<img src="https://as2.ftcdn.net/v2/jpg/03/05/54/03/1000_F_305540391_rBjfN78tUPClgDCfqT3YN8UfNg5CDJav.jpg" alt="">
+<br>
+<br>
+<img  style="width: 400px; height: 350px;"src="https://as2.ftcdn.net/v2/jpg/03/05/54/03/1000_F_305540391_rBjfN78tUPClgDCfqT3YN8UfNg5CDJav.jpg" alt="">
+
+<h5>Todos os direitor Reservados SESI SENAI </h5>
+
+<img src="https://as1.ftcdn.net/v2/jpg/05/11/44/18/1000_F_511441889_ZnKPoIJz9NgaGaEioAxaHtoAuO0tO1Sp.jpg" alt="">
